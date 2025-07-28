@@ -5,5 +5,5 @@
 
 
  #  Week 2: Git Simplilearn
-![Screenshot Git](https://github.com/akash2479/4859124_Akash_Verma/blob/main/Screenshot%202025-07-20%20150412.png)
+![Screenshot Git](https://github.com/akash2479/4859124_Akash_Verma/blob/main/Git/Screenshot_Git.png)
 
