@@ -20,3 +20,7 @@
 ![Screenshot Git](https://github.com/akash2479/4859124_Akash_Verma/blob/main/LinuxCmd/Screenshot%202025-07-29%20222721.png)
 # 6
 ![Screenshot Git](https://github.com/akash2479/4859124_Akash_Verma/blob/main/LinuxCmd/Screenshot%202025-07-29%20222736.png)
+# 7
+![Screenshot Git](https://github.com/akash2479/4859124_Akash_Verma/blob/main/LinuxCmd/Screenshot%202025-07-30%20205213.png)
+# 8
+![Screenshot Git](https://github.com/akash2479/4859124_Akash_Verma/blob/main/LinuxCmd/Screenshot%202025-07-30%20205244.png)
